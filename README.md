@@ -20,9 +20,9 @@ I’m a data analyst and web developer passionate about exploring new technologi
 - Open-source initiatives focused on improving debugging workflows and developer productivity  
 
 ## 📫 How to reach me...  
-- [LinkedIn](your-link-here)  
-- [Twitter](your-link-here)  
-- [GitHub](your-link-here)  
+- [LinkedIn](https://www.linkedin.com/in/leon-madara-2479472ab/)  
+- [Email](leon.madara@outlook.com)  
+- [GitHub](https://github.com/leon-madara)  
 
 ## 😄 Pronouns: He/Him  
 
